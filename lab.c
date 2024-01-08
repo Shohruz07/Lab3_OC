@@ -7,7 +7,7 @@
 #include <linux/time.h>
 
 MODULE_DESCRIPTION("Tsu lab");
-MODULE_AUTHOR("x5113nc3x");
+MODULE_AUTHOR("Shohruz07");
 MODULE_LICENSE("GPL");
 
 #define procfs_name "tsu"
