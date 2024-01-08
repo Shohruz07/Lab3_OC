@@ -19,7 +19,8 @@ FOR RUN CODE
           lsmod | grep lab
     ```
 
-lab                    12288  0 
+lab               12288  0 
+
 5.kali㉿kali~$```bash
            cat /proc/tsu
     ```
