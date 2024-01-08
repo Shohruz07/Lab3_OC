@@ -57,5 +57,5 @@ int init_module(void)
 void cleanup_module(void)
 {
     proc_remove(our_proc_file);
-    pr_info("Tomsk State University forever!\n");
+    pr_info("Unloding the TSU Linux Module\n");
 }
