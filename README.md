@@ -3,7 +3,7 @@
 
 FOR RUN CODE
 
-1.kali㉿kali~$ ```bash
+1.kali㉿kali~$ ```
         sudo apt-get install linux-headers-$(uname -r)
     ``` 
 
