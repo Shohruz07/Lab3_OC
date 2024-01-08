@@ -3,9 +3,9 @@
 
 FOR RUN CODE
 
-1.kali㉿kali~$ ``` bash
- sudo apt-get install linux-headers-$(uname -r)
-``` 
+1.kali㉿kali~$ ```bash
+        sudo apt-get install linux-headers-$(uname -r)
+    ``` 
 
 2.kali㉿kali~$  ```bash
          make 
