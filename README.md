@@ -3,9 +3,9 @@
 
 FOR RUN CODE
 
-1.kali㉿kali~ sudo apt-get install linux-headers-$(uname -r) 
+1.kali㉿kali~$ sudo apt-get install linux-headers-$(uname -r) 
 
-2.kali㉿kali~ make 
+2.kali㉿kali~$ make 
 
 3.kali㉿kali~$ sudo insmod lab.ko
 
